@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Bàn giao Đơn hàng & COD",
+  "description": "Hệ thống quản lý bàn giao đơn hàng, phân công xế, đối soát COD và phiếu bàn giao điện tử cho đội giao hàng nội bộ.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
